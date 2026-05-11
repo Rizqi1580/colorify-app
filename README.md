@@ -121,4 +121,4 @@ File APK tersedia di `build/app/outputs/flutter-apk/app-release.apk`.
 
 ---
 
-(screenshots/overview.jpeg)
+![Overview](screenshots/overview.jpeg)
