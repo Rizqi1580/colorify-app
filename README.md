@@ -118,3 +118,7 @@ File APK tersedia di `build/app/outputs/flutter-apk/app-release.apk`.
 - **image** — Pemrosesan gambar & konversi ruang warna CIE Lab
 - **image_picker** — Akses galeri perangkat
 - **gal** — Simpan gambar ke galeri Android
+
+---
+
+(screenshots/overview.jpeg)
